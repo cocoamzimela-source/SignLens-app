@@ -1,5 +1,5 @@
-# SignLens-app
-SignLens is an application that uses AI and a camera to recognize hand signs and instantly translate them into speech, enabling real-time communication between deaf or hard-of-hearing individuals and non-signers.
+![Code Snip 1](https://github.com/user-attachments/assets/fd4618ec-7a35-41ec-a450-a7f70f9cb48a)# SignLens- Web application
+SignLens is a web application that uses AI and a camera to recognize hand signs and instantly translate them into speech, enabling real-time communication between deaf or hard-of-hearing individuals and non-signers.
 
 <img width="500" height="500" alt="make this an app icon, the app is called SignLens, put that below the icon, like how it would appear on a cellphone" src="https://github.com/user-attachments/assets/df3df8dc-ab2e-4d57-9696-646625d07e12" />
 
@@ -14,8 +14,8 @@ SignLens is an application that uses AI and a camera to recognize hand signs and
 
 ## 🛠️ Tools & Technologies Used:
 - **App Development**: Android Studio  
-- **Programming Languages**:  Python, JavaScript, HTML 
-- **Website**: Fully functional website built with JavaScript and HTML - **Note:** This application also functions as a fully operational website, providing seamless access via web browsers.
+- **Programming Languages**: JavaScript, HTML 
+- **Website**: Fully functional website built with JavaScript and HTML
 - **Code Editors**: Sublime Text, Visual Studio Code  
 - **AI/ML**: Computer vision model for hand sign recognition
 - **Design Assistance**: Logo prototyping with AI tools (ChatGPT)
@@ -26,21 +26,12 @@ SignLens is an application that uses AI and a camera to recognize hand signs and
 
 ## 💻 Code Snippets:
 
-<img width="937" height="706" alt="image" src="https://github.com/user-attachments/assets/4b30c733-e1fb-4874-af07-7a0d6bf75cb4" />
+![Code Snip 1](https://github.com/user-attachments/assets/8857d986-fb1d-4a0b-9f82-455a38083d57)
 
-**Snippet 1 – Camera Input Handling**:
-This part of the code handles raw camera data and converts it into a usable format for further processing.
 
----
+![Code snip 2](https://github.com/user-attachments/assets/9723a5cd-87f6-4aae-8234-f223c7d0470e)
 
-<img width="1360" height="693" alt="image" src="https://github.com/user-attachments/assets/ab49d94a-0df0-405f-8387-93371e11f201" />
-
-**Snippet 2 – Pre-Processing for AI Model**:
-This step performs the final processing before feeding images into the AI model for recognition.
-
----
-
-**Note:** This project is a work in progress and primarily developed for the hackathon. The code may not be production-ready or optimized.
+**Code Snippet**: This defines the front-end styling and layout for your web app interface (the SignLe deo site). It controls appearance, buttons, video display, and layout.
 
 ---
 
