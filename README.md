@@ -31,7 +31,7 @@ SignLens is a web application that uses AI and a camera to recognize hand signs 
 
 ![Code snip 2](https://github.com/user-attachments/assets/9723a5cd-87f6-4aae-8234-f223c7d0470e)
 
-**Code Snippet**: This defines the front-end styling and layout for your web app interface (the SignLe deo site). It controls appearance, buttons, video display, and layout.
+**Code Snippets**: This defines the front-end styling and layout for your web app interface (the SignLe deo site). It controls appearance, buttons, video display, and layout.
 
 ---
 
