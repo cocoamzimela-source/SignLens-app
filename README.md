@@ -1,4 +1,4 @@
-![Code Snip 1](https://github.com/user-attachments/assets/fd4618ec-7a35-41ec-a450-a7f70f9cb48a)# SignLens- Web application
+# SignLens- Web application
 SignLens is a web application that uses AI and a camera to recognize hand signs and instantly translate them into speech, enabling real-time communication between deaf or hard-of-hearing individuals and non-signers.
 
 <img width="500" height="500" alt="make this an app icon, the app is called SignLens, put that below the icon, like how it would appear on a cellphone" src="https://github.com/user-attachments/assets/df3df8dc-ab2e-4d57-9696-646625d07e12" />
